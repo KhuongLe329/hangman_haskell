@@ -1,1 +1,1 @@
-# hangman_haskell
+# hangman
